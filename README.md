@@ -159,5 +159,10 @@ Have questions or suggestions? Feel free to:
 - Reach out directly
 
 ---
+## Result ScreenShots
+<img width="1366" height="768" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/542cd2b3-2be6-41ed-bc01-ef3462d0b921" />
+<img width="1366" height="768" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/7549dac1-43ad-4944-86ae-8b80805fd19f" />
+
+
 
 **Made with ❤️ by [Chdrryy-nndnii211](https://github.com/Chdrryy-nndnii211)**
